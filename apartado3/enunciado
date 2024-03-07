@@ -1,0 +1,4 @@
+Resolver en SQL las siguientes consultas:
+a. Obtener el número de pacientes que han sido atendidos en centros de salud de una provincia diferente a la suya en el área Quirúrgica.
+b. Obtener el centro y su provincia para aquellos centros que hayan atendido tanto a pacientes de Sagrillas como de Peñafría a partir de las 12:00.
+c. Obtener para cada centro de salud, el número de asistencias atendidas en viernes a pacientes de género femenino (valor “M”). 
