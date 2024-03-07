@@ -1,1 +1,8 @@
-
+Realizar los siguientes cambios en los datos mediante SQL explicando los problemas y anomalías encontradas. Hacer uso de transacciones con acción ROLLBACK para
+comprobar resultados sin modificar el contenido de las bases de datos.
+a. Modificar la edad de la paciente “Dolores Fuertes” a 46 años.
+b. A partir del 12 de enero de 2024 el centro Vallesol ha cambiado de nombre y de localidad, pasándose a llamar “Vallesol 2” en la localidad de “Datapolis” de Madrid
+con código de centro 19.
+c. Debido a un error, se debe eliminar la asistencia al paciente “Armando Bronca” realizada el día 18 de enero de 2024 a las 16:00 horas, eliminando los datos de
+dicha asistencia.
+d. Eliminar la asistencia de la paciente “Soly Luna” del día 2024-01-15 a las 12:30. Indica si se produce algún tipo de anomalía o perdida de datos. 
