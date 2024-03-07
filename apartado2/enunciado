@@ -1,0 +1,3 @@
+Determinar el nivel de normalización de la relación TablaUnica, calculando TODAS las claves existentes y sin eliminar la tabla previamente creada, definirlas mediante las
+correspondientes sentencias SQ: “ALTER TABLE tablaunica ADD PRIMARY KEY (atributos_PK)” para la clave principal, y “ALTER TABLE tablaunica ADD UNIQUE (atributos_
+clave)” para el resto de las claves secundarias, o creando un índice único. 
