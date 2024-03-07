@@ -1,0 +1,6 @@
+Teniendo en cuenta el conjunto de dependencias funcionales (L), contestar a las siguientes preguntas:
+a. ¿Puede atender un centro de salud a pacientes que sean de una localidad o provincia diferente a la del centro?
+b. ¿Puede un mismo paciente acudir a centros diferentes?
+c. ¿Puede una especialidad pertenecer a dos áreas diferentes?
+d. ¿Podría haber dos médicos atendiendo consultas del mismo área en un mismo centro?
+Indicar que dependencias funcionales o la ausencia de estas te permiten responder afirmativa o negativamente a las preguntas anteriores.
